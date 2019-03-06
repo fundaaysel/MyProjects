@@ -1,3 +1,3 @@
 # Odevler
-*Nesneye Yönelik Programlama*
-*Veritabanı*
+-*Nesneye Yönelik Programlama*
+-*Veritabanı*
